@@ -246,7 +246,7 @@ else
 */ 
 
 
-//the reason for negation is to prove the system wrong and come up with a counter part of it inside the code for efficiency 
+//the reason for negation is to prove the system wrong and come up with a counter part of it inside the code for efficiency  but for this code the logical thinking the negated statement is vacuously true since the system is deterministic therefore looking for an anomaly the negated on is an empty set therefore the logic and the code is sound
 
 
 
